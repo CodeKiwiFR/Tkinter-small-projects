@@ -1,7 +1,7 @@
 """
 Mouth detector
 Madipoupou
-09/08/2020
+09/05/2020
 """
 
 import tkinter as tk
