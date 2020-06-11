@@ -1,11 +1,1 @@
-fname-|-Madi
-lname-|-Poupou
-address-|-52 rue de la république
-cp-|-69220
-phone-|-0633546591
 
-fname-|-Justi
-lname-|-Boubou
-address-|-52 rue de la république
-cp-|-69220
-phone-|-0663717014
