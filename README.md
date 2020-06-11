@@ -1,6 +1,6 @@
 # Tkinter-small-projects
 Small projects made in order to learn about python programming and tkinter GUI:<br><br>
-### BLACKJACK
+### Blackjack
 This not a tkinter project (yes, very logic to put it here).<br>
 It is a console Blackjack game which was my first OOP project with Python.<br>
 !!!!! It only works on unix systems (I use the os clear command which is not available on windows - I should correct this but am lazy)<br>
