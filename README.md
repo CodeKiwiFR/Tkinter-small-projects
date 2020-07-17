@@ -1,7 +1,8 @@
 # Tkinter-small-projects
 Small projects made in order to learn about python programming and tkinter GUI:<br><br>
 
-<details><summary>Blackjack</summary>
+### BlackJack
+<details><summary></summary>
 <p>
 This not a tkinter project (yes, very logic to put it here).<br>
 It is a console Blackjack game which was my first OOP project with Python.<br>
