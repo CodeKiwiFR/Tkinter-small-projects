@@ -4,20 +4,20 @@ Small projects made in order to learn about python programming and tkinter GUI:<
 ### BlackJack
 <details>
   <summary>Details</summary>
-  <code>
+  <p>
   This not a tkinter project (yes, very logic to put it here).<br>
   It is a console Blackjack game which was my first OOP project with Python.<br>
-  !!!!! It only works on unix systems (I use the os clear command which is not available on windows - I should correct this but am lazy)<br>
-  </code>
+  It only works on unix systems (I use the os clear command which is not available on windows - I should correct this but am lazy)<br>
+  </p>
 </details>
 
 ### Contact_manager
 <details>
   <summary>Details</summary>
-  <code>
+  <p>
   This a small app made in order to learn about file management.<br>
   You can create contacts and save them to a file. Oldschool but interesting.
-  </code>
+  </p>
 </details>
 
 ### snake
